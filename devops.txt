@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 90E9-ECFB
+
+ Directory of C:\Users\MONICA\Desktop\Devops Project
+
+17-Mar-22  09:05 PM    <DIR>          .
+17-Mar-22  09:05 PM    <DIR>          ..
+17-Mar-22  09:05 PM                 0 devops.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  364,360,552,448 bytes free
